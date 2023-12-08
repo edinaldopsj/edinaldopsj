@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello team, my name is <strong> Edinaldo </strong> but you can call me <strong>Edi</strong>!
+  Hello team, I'm <strong> Edinaldo </strong>, but you can call me <strong>Edi</strong>!
   <br>
   I am a brazilian software developer and I've been working with software development since 2012.
   Here you can see my repos and work around.
