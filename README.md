@@ -3,7 +3,7 @@
 <p align="left"> 
   Hello team, I'm <strong> Edinaldo </strong>, but you can call me <strong>Edi</strong>!
   <br>
-  I am a brazilian software developer and I've been working with software development since 2012.
+  I am a  brazilian software developer and I've been working with software development since 2012.
   Here you can see my repos and work around.
   </br>
   Feel free to browse and ask me anything!
@@ -11,7 +11,11 @@
 </p>
 
 <p align="left">
-  Languages: <strong>Nodejs, Javascript, Typescript, React, Remix, Next, VueJS, Nuxt, NestJS,  Docker, Docker Compose, Linux, PHP, PHP (Laravel), PHP (Codeigniter), HTML, CSS</strong>
+  Languages: <strong>Javascript, Typescript, PHP, HTML, CSS</strong>
+</p>
+
+<p align="left">
+  Frameworks: <strong>React, Remix, Next, VueJS, Nuxt, NestJS, PHP (Laravel), PHP (Codeigniter)</strong>
 </p>
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
