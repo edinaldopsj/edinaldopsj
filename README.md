@@ -22,10 +22,7 @@
   Databases: <strong>MySQL, SQL, PostgreSQL, OracleDB, MongoDB</strong>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js, ts, nodejs, express, nestjs, bootstrap, css, html, materialui, react, redux, nextjs, vue, nuxtjs, graphql, jquery, laravel, linux, mongodb, mysql, postgres, prisma, supabase, tailwind" />
-  </a>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
