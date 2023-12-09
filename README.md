@@ -11,15 +11,7 @@
 </p>
 
 <p align="left">
-  Languages: <strong>Javascript, Typescript, PHP, HTML, CSS</strong>
-</p>
-
-<p align="left">
-  Frameworks: <strong>React, Remix, Next, VueJS, Nuxt, NestJS, PHP (Laravel), PHP (Codeigniter)</strong>
-</p>
-
-<p align="left">
-  Databases: <strong>MySQL, SQL, PostgreSQL, OracleDB, MongoDB</strong>
+  Some of my current skills included below:
 </p>
 
 <p>
