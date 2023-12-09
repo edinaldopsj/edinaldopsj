@@ -4,14 +4,12 @@
   Hello team, I'm <strong> Edinaldo </strong>, but you can call me <strong>Edi</strong>!
   <br>
   I am a  brazilian software developer and I've been working with software development since 2012.
-  Here you can see my repos and work around.
+  Here you can see my repos and work around. Feel free to browse and ask me anything!
   </br>
-  Feel free to browse and ask me anything!
-  <br />
 </p>
 
 <p align="left">
-  Some of my current skills included below:
+  Some of my current skills are included below:
 </p>
 
 <p>
