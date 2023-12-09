@@ -22,21 +22,113 @@
   Databases: <strong>MySQL, SQL, PostgreSQL, OracleDB, MongoDB</strong>
 </p>
 
-<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code> -->
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, gitlab, github, js, ts, nodejs, express, nestjs, bootstrap, css, html, materialui, react, redux, nextjs, vue, nuxtjs, graphql, jquery, laravel, linux, mongodb, mysql, postgres, prisma, supabase, tailwind" />
+    <img src="https://skillicons.dev/icons?i=js, ts, nodejs, express, nestjs, bootstrap, css, html, materialui, react, redux, nextjs, vue, nuxtjs, graphql, jquery, laravel, linux, mongodb, mysql, postgres, prisma, supabase, tailwind" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=materialui" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
 </p>
 
